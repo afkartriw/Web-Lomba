@@ -1,0 +1,28 @@
+{
+  "public/assets/images/icons/search.svg": {
+    "file": "assets/search-Dkx3kuv0.svg",
+    "src": "public/assets/images/icons/search.svg"
+  },
+  "public/bootstrap/images/error_img.png": {
+    "file": "assets/error_img-CwRQExGk.png",
+    "src": "public/bootstrap/images/error_img.png"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-B_SY1GJM.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-BpPZmjis.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "css": [
+      "assets/app-CgzxokAI.css"
+    ],
+    "assets": [
+      "assets/search-Dkx3kuv0.svg",
+      "assets/error_img-CwRQExGk.png"
+    ]
+  }
+}
